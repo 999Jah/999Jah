@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @999Jah
+- 👋 Hi, I’m @Aran
 - 👀 I’m interested in cyber security and comp Sci
 - 🌱 I’m currently learning Cyber security
 - 💞️ I’m looking to collaborate on or independantely approach projects which intrest me and make quality of life easier for me and potentiolly others (:
